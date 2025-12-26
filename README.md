@@ -98,8 +98,7 @@ The dashboard enables stakeholders to monitor sales trends, profitability, custo
 ## 🚀 How to Use
 1. Download the `.pbix` file from the `powerbi/` folder
 2. Open it in **Power BI Desktop**
-3. Refresh data if required
-4. Use slicers and visuals to explore insights interactively
+3. Use slicers and visuals to explore insights interactively
 
 ---
 
