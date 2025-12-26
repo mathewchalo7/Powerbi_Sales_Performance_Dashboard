@@ -91,7 +91,7 @@ The dashboard enables stakeholders to monitor sales trends, profitability, custo
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.PNG)
 
 ---
 
