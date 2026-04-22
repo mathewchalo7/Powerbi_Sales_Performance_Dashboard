@@ -109,8 +109,10 @@ A **business-ready, interactive Power BI dashboard** demonstrating strong capabi
 - DAX and time intelligence
 - Dashboard design and storytelling
 
-## 👤 Author and Contributers
+## 👤 Author and Contributors
 **Mathew Chalo** 
+
 **Lawrence Gitonga**
+
 **Abel Kiptoo**
 
