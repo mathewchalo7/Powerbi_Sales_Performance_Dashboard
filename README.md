@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
-##  Project Overview
+## 📌 Project Overview
 This project presents an **end-to-end Sales Performance Dashboard** developed in **Power BI**, covering the full analytics lifecycle: data integration, cleaning, modeling, DAX measure creation, and interactive dashboard design.
 
 The dashboard enables stakeholders to monitor sales trends, profitability, customer performance, and regional insights through a clean, professional, and interactive interface.
