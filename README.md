@@ -109,7 +109,8 @@ A **business-ready, interactive Power BI dashboard** demonstrating strong capabi
 - DAX and time intelligence
 - Dashboard design and storytelling
 
-## 👤 Author
-**Mat**  
-Statistical Analyst | Power BI | SQL | Python  
+## 👤 Author and Contributers
+**Mathew Chalo** 
+**Lawrence Gitonga**
+**Abel Kiptoo**
 
